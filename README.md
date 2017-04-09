@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'raphael-sketchpad-rails'
+gem "raphael-sketchpad-rails", git: "https://github.com/Sentia/raphael-sketchpad-rails"
 ```
 
 And then execute:
@@ -38,4 +38,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-

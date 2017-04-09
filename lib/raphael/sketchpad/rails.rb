@@ -3,7 +3,8 @@ require "raphael/sketchpad/rails/version"
 module Raphael
   module Sketchpad
     module Rails
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end
