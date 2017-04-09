@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to the Javascript application manifest (sprockets)
+
+```javascript
+//= require json2.min
+//= require raphael-2.0.1.min
+//= require raphael.sketchpad
+```
 
 ## Development
 
